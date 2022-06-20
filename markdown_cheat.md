@@ -150,14 +150,4 @@ print("Wellcome to Markdown")
 [Code or codeblock](#10--adding-code-or-codeblock)\
 [Table](#11--adding-table)
 
-
-
-
-
-
-
-
-
-
-
-
+We are in the git 101.
